@@ -344,13 +344,6 @@
     "tags": ["功能"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
   },
-  "astrbot-plugin-today-in-history": {
-    "desc": "查看 历史上的今天 都发生了什么大事",
-    "author": "Zhalslar",
-    "tags": ["历史"],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history"
-  },
   "astrbot_plugin_yuafeng": {
     "desc": "对接枫林API提供的接口，为astrbot提供丰富多彩的功能，如随机发短视频、图片、音频、文案，翻译文本、查ip等等",
     "author": "Zhalslar",
